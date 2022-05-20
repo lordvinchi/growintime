@@ -1,0 +1,103 @@
+.body {
+    background-color: #000a01;
+    background-image: url(splash.png);
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-blend-mode:overlay;
+            
+}
+.title {
+    font-family: poppins;
+    font-size: 25px;
+    color: rgb(19, 83, 0);
+    text-shadow: (30em  #000000);
+    text-align:center;
+    margin-top: 2px;
+    margin-bottom: 0px;
+
+}
+
+.title2 {
+    font-family: poppins;
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+    text-shadow: (30em  #000000);
+    text-align:center;
+    margin-top: 2px;
+    margin-bottom: 0px;
+
+}
+
+.below {
+    font-family: poppins;
+    font-size: 10px;
+    color:rgb(19, 83, 0);
+    text-align: center;
+    margin:0%;
+   
+}
+
+.splash {
+    width: 100%;
+    height:max-content;
+    align-content: center;
+    margin:0%;
+    padding: 3px;
+    
+
+}
+
+.splashv {
+    width: 100%;
+    height:6em;
+    align-content: center;
+    margin:0%;
+    padding: 3px;
+    
+
+}
+
+.below2 {
+    font-family: poppins;
+    font-size: 10px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    margin:0%;
+   
+}
+
+.below3 {
+    font-family: poppins;
+    font-size: 10px;
+    color:rgb(255, 189, 7);
+    text-align: center;
+    margin:0%;
+   
+}
+
+.splash {
+    width: 100%;
+    height: 10em;
+    align-content: center;
+    margin:0%;
+    padding: 10px;
+    
+
+}
+
+.belowdiv {
+    width: fit-content;
+    position:relative;
+    align-content: center;
+    height: fit-content;
+    background-color:rgb(255, 217, 0);
+    margin-top:0%;
+    margin-left: 29%;
+    margin-right: 29%;
+    padding-top: 0.3%;
+    padding-bottom: 0.2%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+        
+
+}
